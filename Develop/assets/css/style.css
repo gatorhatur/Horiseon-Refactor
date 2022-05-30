@@ -8,6 +8,17 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/*begin header section*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,7 +31,7 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 span {
     color: #d9dcd6;
 }
 
@@ -41,14 +52,10 @@ header div ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
+/*end of header section*/
 
-p {
-    font-size: 16px;
-}
+
+/*Begin Hero*/
 
 .hero {
     height: 800px;
@@ -58,6 +65,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*End hero section*/
 
 .float-left {
     float: left;
