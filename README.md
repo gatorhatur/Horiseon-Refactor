@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# UNC Bootcamp Challenge 1 - Horiseon Code Refactor
 
 # User Story
 AS A marketing agency<br>
