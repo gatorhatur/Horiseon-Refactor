@@ -21,8 +21,23 @@ THEN I find a concise, descriptive title<br>
 # Approaching the Challenge
 As a developer I strive for consistency in all of my work. Here is my systematic process for how I met the acceptance criteria:<br>
 <strong>Step 1:</strong> Review HTML for visual layout, make necessary adjustments regarding indentations and formatting to make it more legible throughout the code.<br>
-<strong>Step 2:</strong> Swap out HTML elements for best practice, specificall "div" for "section"<br>
+<strong>Step 2:</strong> Swap out HTML elements for best practice, specifically "div" for "section" and "div" for "nav" in the header<br>
 <strong>Step 3:</strong> Align other HTML elements with best practice, this includes the page title and the alt descriptions of the images.<br>
+<strong>Step 4:</strong> Completed a review of the CSS. Included::
+    <ul>
+        <li>
+            Reordering of sections to follow the flow of the HTML
+        </li>
+        <li>
+            Updated the CSS for references to div that needed to be updated to "section" or "nav"
+        </li>
+        <li>
+            Consolidate CSS where possible, specifically in the styling of the Service Offerings and the Benefits
+        </li>
+        <li>
+            Commented, when possible, to add clarification
+        </li>
+    </ul>
 
 # Completed Refactor
 <strong>Horiseon Refactor Site: </strong><a href="https://gatorhatur.github.io/Horiseon-Refactor/">Click Here</a><br>
