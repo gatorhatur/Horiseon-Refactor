@@ -24,7 +24,7 @@ As a developer I strive for consistency in all of my work. Here is my systematic
         </li>
     </ul>
 
-    ![alt text](https://github.io/gatorhatur/horiseon-refactor/assets/images/readme-screencap.jpg)
+    ![Sample Code](/assets/images/readme-screencap.jpg)
 
 ## User Story
 AS A marketing agency<br>
